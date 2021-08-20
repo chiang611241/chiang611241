@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiang611241
 - 👀 I’m frontend developer
-- 🌱 My majored in is react and react native 
+- 🌱 I'm majored in is react and react native 
 
 <!---
 chiang611241/chiang611241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
