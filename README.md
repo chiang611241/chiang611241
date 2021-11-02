@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiang611241
 - 👀 I’m frontend developer
-- 🌱 I'm majored in react and react native 
+- 👀 My codesandbox: https://codesandbox.io/u/chiang611241
 
 <!---
 chiang611241/chiang611241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
